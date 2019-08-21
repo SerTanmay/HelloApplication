@@ -5,5 +5,6 @@ public class App {
         System.out.println("Hello Java");
         System.out.println("More text");
         System.out.println("I am awesome!");
+        System.out.println("I am not bored with the training"); 
     }
 }
